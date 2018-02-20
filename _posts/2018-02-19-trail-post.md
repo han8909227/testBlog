@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "default"
 title: "This is the new title"
 categories: jekyll
 permalink: "/my-new-url"
