@@ -30,6 +30,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"  # where folder
+    values:
+      layout: "post"  # default layout
+      title: "my title"  # default title
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
